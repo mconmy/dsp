@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3 because of compatibility with HackRank exercises and because it is the environment I am used to form the Codecademy course I took
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> The installation did not change the default version of Python that OSX diverts to (Python 2.7.10) and many of the commands listed above do not work, however I completed the Anaconda3 install succesfully and when I launch Spyder from the Anaconda launcher is displays Python v3.7.
 
  
 
